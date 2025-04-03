@@ -91,11 +91,11 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=suz42ad13o3hgi88fl64uglfk&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=suz42ad13o3hgi88fl64uglfk&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
 
-  
+
 
 <br/>  
 
